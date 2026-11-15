@@ -36,5 +36,4 @@ L'essentiel de mon travail vit dans des dépôts privés (Dendreo et projets per
 ## Me contacter
 
 - LinkedIn : https://www.linkedin.com/in/anseljerome/
-- CV : https://cv.jansel.fr
 - Alsace, France — télétravail
