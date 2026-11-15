@@ -33,7 +33,7 @@ Most of my work lives in private repositories (Dendreo and personal projects).
 
 ## Contact
 
-## Me contacter
+## Contact me
 
 - LinkedIn : https://www.linkedin.com/in/anseljerome/
 - Alsace, France — télétravail
