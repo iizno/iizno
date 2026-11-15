@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jérôme
 
-<!--
-**iizno/iizno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO chez [Dendreo](https://www.dendreo.com) (EdTech). Trois casquettes : dev, produit, IA.
 
-Here are some ideas to get you started:
+Avant ça : Engineering Manager, Product Manager, et une dizaine d'années d'e-commerce (PHP, Magento, Laravel).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En full remote depuis dix ans.
+
+## Ce que je fais aujourd'hui
+
+- **Direction technique** : architecture, organisation des équipes, arbitrages produit / technique.
+- **IA appliquée** : agents et assistants en production, outillage de développement assisté par IA, automatisations qui tournent sans surveillance.
+- **Encore les mains dans le code** : Laravel, Vue 3, Tailwind, Python, SQLite quand ça suffit.
+
+## Pourquoi ce profil est calme
+
+L'essentiel de mon travail vit dans des dépôts privés (Dendreo et projets personnels). Les dépôts publics ici sont anciens et ne reflètent pas ce que je fais aujourd'hui.
+
+## Me contacter
+
+- LinkedIn : https://www.linkedin.com/in/anseljerome/
+- CV : https://cv.jansel.fr
+- Alsace, France — télétravail
