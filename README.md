@@ -31,8 +31,6 @@ Fully remote for ten years.
 
 Most of my work lives in private repositories (Dendreo and personal projects).
 
-## Contact
-
 ## Contact me
 
 - LinkedIn : https://www.linkedin.com/in/anseljerome/
